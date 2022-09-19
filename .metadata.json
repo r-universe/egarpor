@@ -1,5 +1,9 @@
 [
   {
+    "package": "DirStats",
+    "oncran": true
+  },
+  {
     "package": "goffda",
     "oncran": true
   },
