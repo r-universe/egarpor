@@ -13,6 +13,11 @@
 	url = https://github.com/egarpor/goffda
 	shallow = true
 	registered = true
+[submodule "ridgetorus"]
+	path = ridgetorus
+	url = https://github.com/egarpor/ridgetorus
+	shallow = true
+	registered = true
 [submodule "rotasym"]
 	path = rotasym
 	url = https://github.com/egarpor/rotasym

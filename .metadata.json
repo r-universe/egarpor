@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "ridgetorus",
+    "oncran": true
+  },
+  {
     "package": "rotasym",
     "oncran": true
   },
