@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "goffda"]
-	path = goffda
-	url = https://github.com/egarpor/goffda
-	shallow = true
-	registered = true
 [submodule "DirStats"]
 	path = DirStats
 	url = https://github.com/egarpor/dirstats
 	shallow = true
 	registered = true
-[submodule "sdetorus"]
-	path = sdetorus
-	url = https://github.com/egarpor/sdetorus
+[submodule "goffda"]
+	path = goffda
+	url = https://github.com/egarpor/goffda
 	shallow = true
 	registered = true
 [submodule "ridgetorus"]
@@ -26,6 +21,11 @@
 [submodule "rotasym"]
 	path = rotasym
 	url = https://github.com/egarpor/rotasym
+	shallow = true
+	registered = true
+[submodule "sdetorus"]
+	path = sdetorus
+	url = https://github.com/egarpor/sdetorus
 	shallow = true
 	registered = true
 [submodule "sphunif"]

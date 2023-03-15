@@ -1,14 +1,10 @@
 [
   {
-    "package": "goffda",
-    "oncran": true
-  },
-  {
     "package": "DirStats",
     "oncran": true
   },
   {
-    "package": "sdetorus",
+    "package": "goffda",
     "oncran": true
   },
   {
@@ -17,6 +13,10 @@
   },
   {
     "package": "rotasym",
+    "oncran": true
+  },
+  {
+    "package": "sdetorus",
     "oncran": true
   },
   {
