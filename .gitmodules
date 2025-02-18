@@ -8,6 +8,9 @@
 [submodule "goffda"]
 	path = goffda
 	url = https://github.com/egarpor/goffda
+[submodule "polykde"]
+	path = polykde
+	url = https://github.com/egarpor/polykde
 [submodule "ridgetorus"]
 	path = ridgetorus
 	url = https://github.com/egarpor/ridgetorus
